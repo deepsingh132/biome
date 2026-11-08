@@ -81,4 +81,4 @@ The correction. The PR adds a condition for a blockquote. The function now retur
 
 ## Environment
 
-Fedora flavour of Linux (KDE Plasma)
+Fedora flavour of Linux V44 (KDE Plasma)
