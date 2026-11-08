@@ -65,7 +65,7 @@ list_ends_with_line_break
 
 ## Testing 
 
-CI/CD tests of the repo itself.
+CI/CD tests of the repo itself. 
 
 e2e tests of the browser. 
 
@@ -78,3 +78,7 @@ What is > it is a simbol that is used to markdown like the fololwing test is tak
 
 ## Correction
 The correction. The PR adds a condition for a blockquote. The function now returns true for a blockquote that ends with a line break. The newline file keeps the Newline node. The output has the blank line. The paragraph stays outside the blockquote. The second output is the same as the first output.
+
+## Environment
+
+Fedora flavour of Linux (KDE Plasma)
